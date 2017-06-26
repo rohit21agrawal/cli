@@ -500,4 +500,3 @@ Remove-Item $ZipPath
 Prepend-Sdk-InstallRoot-To-Path -InstallRoot $InstallRoot -BinFolderRelativePath $BinFolderRelativePath
 
 Say "Installation finished"
-exit 0
